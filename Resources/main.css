@@ -1,39 +1,63 @@
 .o-info-container{
-    width: 100vw;
-    background-color: blue;
+
+    background-color: #D4CFCF ;
+    padding: 3em 5em;
+
+
 }
+
+.o-dateStudent-container{
+
+    /*background-color: indianred;*/
+    width: 50em ;
+    margin: -13em 15em 1em;
+
+}
+
 
 .o-img-profile{
 
-   height: 10rem;
-
-}
-
-.o-big-container{
-
-    margin: 2em 5rem 1rem 0;
-    background-color: red;
-    padding: 1rem;
-    border: 1rem solid black;
-
-}
-
-
-.o-big-container .o-blue{
-
-    background-color: bisque;
+    width: 13em;
     
+}
+
+.o-info-projects {
+
+    /*background-color: cyan;*/
+    padding: 1em 3em;
+    margin: 2em 15em;
+   
 }
 
 .o-project{
-    
-    background-color: white;
-    padding: 1rem;
-    margin: 1rem;
+
+    background-color: #D4CFCF;
+    padding: 0.5em 2em;
+    margin: 1em;
+    border-radius: 0.5em;
+
 }
 
-#SubConteiner2{
-    
-    background-color: blue;
+.o-img-projects{
+
+    width: 29em;
+
+}
+
+h1, h2, h3, p{
+
+    font-family: Helvetica;
+
+}
+
+h2{
+  
+    font-size: 1.4em;
+
+}
+
+h3{
+
+    font-size: 1.2em;
 
 }
